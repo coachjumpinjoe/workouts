@@ -9,6 +9,12 @@
 ## Mid-Distance Workouts
 
 ## Sprint Workouts
+Sprint workouts are split up into 
+* Speed Workout Days
+* Tempo Workout Days
+* Recovery Days
+
+Each workout days should include Warmup, Speed or Tempo Work, Cooldown, Core
 
 ### Warmups
 ```
@@ -25,13 +31,16 @@
 ### Speed Workouts
 
 
-#### Workout 1
+#### Speed Workout 1
 ```
 1. 2 sets of 4x60m hard with 5min rest between each 60m for full recovery
 2. Find a hill 
    4x15m straight leg run into 40m sprint
    2x15m double leg hop into 40m sprint
 ```
+### Tempo Workouts
+
+
 ## Jump Workouts
 
 See sprint workout
