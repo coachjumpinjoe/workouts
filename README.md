@@ -10,7 +10,29 @@
 
 ## Sprint Workouts
 
+### Warmups
+
+'Jog - 10 to 15 min
+1 x 40 A Skip
+1 X 40 B Skip
+1 x 40 C Skip'
+
+### Cooldown
+
+'Jog 10 min
+Stretch'
+
+### Speed Workouts
+
+
+#### Workout 1
+' 2 sets of 4x60m hard with 5min rest between each 60m for full recovery
+  Find a hill - 4x15m straight leg run into 40m sprint
+                2x15m double leg hop into 40m sprint'
+
 ## Jump Workouts
+
+Do sprint workout
 
 ## Vault Workouts
 
