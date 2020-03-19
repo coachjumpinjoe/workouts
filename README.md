@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Sample Track Workouts
 
-You can use the [editor on GitHub](https://github.com/coachjumpinjoe/workouts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**COVID-19 Note:** Many places are under a COVID-19 crisis.  Please follow the recommendations from your local officials with regard to groups meeting in public.  Many places (such as the Seattle area) are using social distancing to reduce the spread of the virus.  Keep this in mind and please limit contact wiht others; sharing your work out progress with others on social media can be a good way to stay in touch and motivate one another.  If you are feeling ill please take it easy and stay inside.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Distance Workouts
 
-```markdown
-Syntax highlighted code block
+## Mid-Distance Workouts
 
-# Header 1
-## Header 2
-### Header 3
+## Sprint Workouts
 
-- Bulleted
-- List
+## Jump Workouts
 
-1. Numbered
-2. List
+## Vault Workouts
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/coachjumpinjoe/workouts/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Throws Workouts
