@@ -61,10 +61,12 @@ There are lots of different ways to do core:
 
 ## Speed Workouts
 
+Speed workouts are intended to develop power and top speed.  Workouts are conducted at close to top speed (90% - 95%).
+Speed work Speed work is usually paired with plyometrics and/or weight training. 
 
 ### Speed Workout 1
 * Repeat 4 or 5 times   
-> 1. 30m with 2:30 rest
+> 1. 30m Fast with 2:30 rest
 > 2. Rest 4 Min
 
 ### Speed Workout 2  
@@ -75,5 +77,18 @@ There are lots of different ways to do core:
 > 1. 90 Meters Fast, 6 min rest
 
 ## Tempo Workouts
+Tempo workouts work on sprinting form.  They are typically run at about 70% of top speed. 
+
+### Tempo Workout 1
+Repeat 2 - 3 times
+* 4x90M, 2:30 min rest 
+* Rest 5 min
+
+### Tempo Workout 2
+Repeat 6 - 9 Times
+* 120m
+* Rest 2:30
+
+
 
 
