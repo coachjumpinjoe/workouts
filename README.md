@@ -14,14 +14,32 @@ Sprint workouts are split up into
 * Tempo Workout Days
 * Recovery Days
 
-Each workout days should include Warmup, Speed or Tempo Work, Cooldown, Core
+Each workout days should include:  
+
+1. Warmup
+2. Speed or Tempo Work 
+3. Cooldown
+4. Core
 
 **Warmups**
+Warm ups should consist of 5-10 minutes of jogging followed buy at lest 10 minutes of active drills:
+1. 5-10 minutes of jogging
+2. At least 10 minutes of active drills
 
-> 1. Jog - 10 to 15 min
-> 2. 1 x 40 A Skip
-> 3. 1 X 40 B Skip
-> 4. 1 x 40 C Skip
+**Active Drill**
+* A Skip
+* B Skip
+* C Skip
+* Double Leg Hop
+* Single Leg Side Hop
+* High Skips
+* Lunges
+* High Knees
+* Butt Flicks
+* Walking Forward T's
+* Strait Leg Run/Bound 
+
+
 
 **Cooldown**
 
