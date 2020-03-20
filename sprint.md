@@ -79,6 +79,15 @@ Speed work Speed work is usually paired with plyometrics and/or weight training.
 ## Tempo Workouts
 Tempo workouts work on sprinting form.  They are typically run at about 70% of top speed. 
 
+Technique Points
+* Relax
+* Body Position
+* Arm Motion
+* High Knees
+* Ground Contact (Ankle Dosiflextion)
+* Engage Hamstring and Gutes on Return
+* Ankle over knee
+
 ### Tempo Workout 1
 * Repeat 2 - 3 times
 > 1. 4x90M, 2:30 min rest 
