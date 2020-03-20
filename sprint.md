@@ -93,7 +93,7 @@ Technique Points
 > 1. 4x90M, 2:30 min rest 
 > 1. Rest 5 min
 
-### Tempo Workout 
+### Tempo Workout 2
 * Repeat 6 - 9 Times
 > 1. 120m
 > 1. Rest 2:30
