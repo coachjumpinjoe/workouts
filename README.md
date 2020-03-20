@@ -11,7 +11,7 @@
 
 ## [Jump Workouts](jumps.html)
 
-See [sprint workout](sprint.html). Athletes who are primarily jumpers may reduce the number of reps and replace them with more runthroughs, plyos and technique work.
+[Jump workouts](jump.html) are based heavily on [sprint workouts](sprint.html). Athletes who are primarily jumpers may reduce the number of reps and replace them with more runthroughs, plyos and technique work.
 
 ## Hurdle Workouts
 
