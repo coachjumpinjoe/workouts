@@ -1,4 +1,5 @@
 # Sprint Workouts
+[Return to workouts](/)
 Sprint workouts are split up into  
 
 * Speed Workout Days
