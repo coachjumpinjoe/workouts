@@ -80,14 +80,14 @@ Speed work Speed work is usually paired with plyometrics and/or weight training.
 Tempo workouts work on sprinting form.  They are typically run at about 70% of top speed. 
 
 ### Tempo Workout 1
-Repeat 2 - 3 times
-* 4x90M, 2:30 min rest 
-* Rest 5 min
+* Repeat 2 - 3 times
+> 1. 4x90M, 2:30 min rest 
+> 1. Rest 5 min
 
-### Tempo Workout 2
-Repeat 6 - 9 Times
-* 120m
-* Rest 2:30
+### Tempo Workout 
+* Repeat 6 - 9 Times
+> 1. 120m
+> 1. Rest 2:30
 
 
 
