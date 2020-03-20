@@ -98,6 +98,28 @@ Technique Points
 > 1. 120m
 > 1. Rest 2:30
 
+## Plyometrics (Plyos)
+Plyometrics are execises intended to build power. 
+
+Plyometric types:
+* Box Jumps
+* Hurdle Hops
+* Stair Hops
+* Double Leg Hops
+* High Skip
+* Bound Steps and hops
+* Gallops
+
+## Weights 
+
+Weight exercise should be explosive to build power. 
+
+Weight Exercises:
+* Dead Lift
+* Hip Thrust
+* Squat
+* Lunge
+* Step ups
 
 
 
