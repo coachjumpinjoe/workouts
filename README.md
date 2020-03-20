@@ -8,7 +8,9 @@
 
 ## Mid-Distance Workouts
 
-## Sprint Workouts
+## [Sprint Workouts](Sprint.html)
+
+
 Sprint workouts are split up into  
 
 * Speed Workout Days
@@ -17,13 +19,13 @@ Sprint workouts are split up into
 
 A week of workouts might looks like
 
-> Monday - Speed and Weights/Plyos
-> Tuesday - Tempo
-> Wednesday - Plyos / weights
-> Thursday - Tempo
-> Friday - Recovery or X-train
-> Saturday - Speed or weights/plyos
-> Sunday - Recovery
+> Monday - Speed and Weights/Plyos  
+> Tuesday - Tempo  
+> Wednesday - Plyos / weights  
+> Thursday - Tempo  
+> Friday - Recovery or X-train  
+> Saturday - Speed or weights/plyos  
+> Sunday - Recovery   
 
 Each workout days should include:  
 
