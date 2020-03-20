@@ -9,15 +9,26 @@
 ## Mid-Distance Workouts
 
 ## Sprint Workouts
-Sprint workouts are split up into 
+Sprint workouts are split up into  
+
 * Speed Workout Days
 * Tempo Workout Days
 * Recovery Days
 
+A week of workouts might looks like
+
+> Monday - Speed and Weights/Plyos
+> Tuesday - Tempo
+> Wednesday - Plyos / weights
+> Thursday - Tempo
+> Friday - Recovery or X-train
+> Saturday - Speed or weights/plyos
+> Sunday - Recovery
+
 Each workout days should include:  
 
 1. Warmup
-2. Speed or Tempo Work 
+2. Workout
 3. Cooldown
 4. Core
 
@@ -43,8 +54,20 @@ Warm ups should consist of 5-10 minutes of jogging followed buy at lest 10 minut
 
 **Cooldown**
 
-> 1. Jog 10 min
-> 2. Stretch
+1. Jog 10 min
+2. Stretch
+
+**Core**
+
+You should do at least 15 minutes of core after a workiut
+
+There are lots of different ways to do core:
+* Dead Bugs (2 min contiuous with 20s hold)
+* Planks (6 x 30s. with 15 sec rest) 
+* Pointers (8 x 20s hold with 10 sec rest
+* Glute Bridges (8 x 30s with 10 rest)
+* Leg raise 3 sets of 20
+* Standing Ts 3x10
 
 **Speed Workouts**
 
