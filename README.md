@@ -72,12 +72,18 @@ There are lots of different ways to do core:
 **Speed Workouts**
 
 
-**Speed Workout 1**
+**Speed Workout 1**  
+* Repeat 4 or 5 times   
+> 1. 30m with 2:30 rest
+> 2. Rest 4 Min
 
-> 1. 2 sets of 4x60m hard with 5min rest between each 60m for full recovery
-> 2. Find a hill  
->    * 4x15m straight leg run into 40m sprint  
->    * 2x15m double leg hop into 40m sprint  
+**Speed Workout 2**   
+* Find a Hill  
+* Repeat 3 times  
+> 1. 30 Meters Fast, 3 min rest
+> 1. 60 Meters Fast, 3 min rest
+> 1. 90 Meters Fast, 6 min rest
+
 
 **Tempo Workouts**
 
