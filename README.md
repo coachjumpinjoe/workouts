@@ -8,7 +8,7 @@
 
 ## Mid-Distance Workouts
 
-## [Sprint Workouts](Sprint.html)
+## [Sprint Workouts](sprint.html)
 
 
 Sprint workouts are split up into  
