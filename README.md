@@ -4,18 +4,21 @@
 
 
 
-## Distance Workouts
-
-## Mid-Distance Workouts
 
 ## [Sprint Workouts](sprint.html)
 
-[Sprint Workouts](sprint.html) are the basics for sprinters and jumpers. Long sprinters (400m+) should opt to do more reps during works at least onece a week.  Athletes who are primarily jumpers may reduce the number of reps and replace them with more runthroughs, plyos and technique work. 
+[Sprint Workouts](sprint.html) are the basics for sprinters, hurdlers and jumpers. Long sprinters (400m+) should opt to do more reps during works at least onece a week.  Athletes who are primarily jumpers may reduce the number of reps and replace them with more runthroughs, plyos and technique work. 
 
 ## Jump Workouts
 
-See sprint workout
+See [sprint workout](sprint.html). Athletes who are primarily jumpers may reduce the number of reps and replace them with more runthroughs, plyos and technique work.
+
+## Hurdle Workouts
 
 ## Vault Workouts
+
+## Distance Workouts
+
+## Mid-Distance Workouts
 
 ## Throws Workouts
