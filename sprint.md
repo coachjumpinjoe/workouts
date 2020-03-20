@@ -1,5 +1,5 @@
 # Sprint Workouts
-[Return to workouts]()  
+[Return to workouts](workouts/)  
 
 Sprint workouts are split up into  
 
