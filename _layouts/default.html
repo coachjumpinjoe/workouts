@@ -38,7 +38,11 @@
 
     <div class="wrapper">
       <nav>
-        <ul></ul>
+          {% for item in site.data.navigation %}
+          <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+            {{ item.name }}
+          </a>
+        {% endfor %}
       </nav>
       <section>
     <h1>Latest Posts</h1>
